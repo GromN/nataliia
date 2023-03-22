@@ -2,6 +2,6 @@
 
 Check out this interesting project I'm working on:
 
-- [E2E with Cypress](https://github.com/GromN/e2e-testing-demo)
-- [E2E with Playwright](https://github.com/GromN/e2e-playwright-demo)
-- [Docker Playground](https://github.com/GromN/docker-cypress-demo)
+- [CypressChef: E2E Testing for Cookidoo Culinary Platform](https://github.com/GromN/e2e-testing-demo)
+- [EnglishMastery: Playwright E2E Testing Project](https://github.com/GromN/e2e-playwright-demo)
+- [PipelinePro: A Project to Master Docker and Pipeline Configuration](https://github.com/GromN/docker-cypress-demo)
