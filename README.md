@@ -1,1 +1,1 @@
-# Welcome to my GitHub :wave
+# Welcome to my GitHub 👋
